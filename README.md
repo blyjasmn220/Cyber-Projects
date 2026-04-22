@@ -52,7 +52,7 @@ This repository demonstrates practical experience in identifying vulnerabilities
 
 ## :camera: Screenshots 
 
-![Netstat Output](screenshots/netstat.png)
+![Netstat Output](screenshots/netstat.png.png)
 ![Firewall Settings](screenshots/firewall.png.png)
 
 ---
